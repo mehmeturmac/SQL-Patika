@@ -1,10 +1,5 @@
 -- Patika Ödev Linki: https://app.patika.dev/courses/sql/Odev1
 
--- Kullanılan Database Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
-
--- Database Adı: dvdrental
-
-
 
 -- Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
