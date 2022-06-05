@@ -1,4 +1,4 @@
--- Patika Ödev Linki: https://app.patika.dev/courses/sql/Odev11
+-- Patika Ödev Linki: https://app.patika.dev/courses/sql/Odev12
 
 
 -- Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
